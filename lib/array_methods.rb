@@ -14,8 +14,8 @@ end
 def find_max_value(array)
 
   array.reverse!
-  return array[0] 
- 
+  return array[0]
+
 end
 
 def find_min_value(array)
