@@ -13,8 +13,8 @@ end
 
 def find_max_value(array)
 
-  array.reverse!
-  return array[0]
+  array.sort!
+  return array[-1]
 
 end
 
