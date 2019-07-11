@@ -8,7 +8,7 @@ if array.counter == value_to_find return counter
 end
 
 return nil
-  
+
 end
 
 def find_max_value(array)
